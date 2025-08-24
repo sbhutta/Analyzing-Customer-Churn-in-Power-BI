@@ -45,21 +45,14 @@ Includes:
 **KPIs:** Total Customers, Churned Customers, Churn Rate, Revenue Lost
 **Visuals:** Churn vs Active distribution, Churn trend over time, Revenue loss
 
-![Overview](Screenshots/to/overview.png)
-![Overview](screenshots/overview.png)
-![Contract Impact](screenshots/contract-impact.png)
-![Customer Demographics](screenshots/customer-demographics.png)
-![Billing & Usage Behavior](screenshots/billing-usage.png)
-![Geographic Churn Pattern](screenshots/geographic-churn.png)
-![Product & Plan Combination](screenshots/product-plan.png)
-
+![Overview Screenshot](https://github.com/sbhutta/Analyzing-Customer-Churn-in-Power-BI/raw/cd98fc10fcc5bb18a63400e53a1e3e9b1705b6a0/Analyzing%20Customer%20Churn%20in%20Power%20BI/Screenshots/Overwiew.png)
 ---
 
 ### 2️⃣ Contract Impact
 
 **Focus:** Churn by contract length (monthly vs yearly), payment method analysis, tenure & monthly charges impact
 
-![Contract Impact](path/to/contract-impact.png)
+![Overview Screenshot](https://github.com/sbhutta/Analyzing-Customer-Churn-in-Power-BI/raw/cd98fc10fcc5bb18a63400e53a1e3e9b1705b6a0/Analyzing%20Customer%20Churn%20in%20Power%20BI/Screenshots/Contract Impact.png)
 
 ---
 
@@ -68,32 +61,28 @@ Includes:
 **Focus:** Churn by age group, gender, dependents, and senior citizen status
 **Visuals:** Salary & demographic breakdowns
 
-![Customer Demographics](path/to/customer-demographics.png)
-
+![Overview Screenshot](https://github.com/sbhutta/Analyzing-Customer-Churn-in-Power-BI/raw/cd98fc10fcc5bb18a63400e53a1e3e9b1705b6a0/Analyzing%20Customer%20Churn%20in%20Power%20BI/Screenshots/Customer Demographics.png)
 ---
 
 ### 4️⃣ Billing & Usage Behavior
 
 **Focus:** Monthly charges vs churn, service usage impact (internet, streaming, international plan, phone)
 
-![Billing & Usage Behavior](path/to/billing-usage.png)
-
+![Overview Screenshot](https://github.com/sbhutta/Analyzing-Customer-Churn-in-Power-BI/raw/cd98fc10fcc5bb18a63400e53a1e3e9b1705b6a0/Analyzing%20Customer%20Churn%20in%20Power%20BI/Screenshots/Billing & Usage Behaviour.png)
 ---
 
 ### 5️⃣ Geographic Churn Pattern
 
 **Focus:** Regional churn insights & customer distribution map
 
-![Geographic Churn Pattern](path/to/geographic-churn.png)
-
+![Overview Screenshot](https://github.com/sbhutta/Analyzing-Customer-Churn-in-Power-BI/raw/cd98fc10fcc5bb18a63400e53a1e3e9b1705b6a0/Analyzing%20Customer%20Churn%20in%20Power%20BI/Screenshots/Geographic Churn Pattern.png)
 ---
 
 ### 6️⃣ Product & Plan Combination
 
 **Focus:** Churn by bundled services (internet + streaming, phone + data, etc.), customer loyalty by service mix
 
-![Product & Plan Combination](path/to/product-plan.png)
-
+![Overview Screenshot](https://github.com/sbhutta/Analyzing-Customer-Churn-in-Power-BI/raw/cd98fc10fcc5bb18a63400e53a1e3e9b1705b6a0/Analyzing%20Customer%20Churn%20in%20Power%20BI/Screenshots/Product & Plan Combination.png)
 ---
 
 ## 🚀 Business Impact & Insights
