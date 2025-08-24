@@ -1,100 +1,108 @@
-📊 Databel | Customer Churn Analysis Dashboard
+# 📊 Databel | Customer Churn Analysis Dashboard
 
-An end-to-end Power BI dashboard analyzing customer churn for a fictional telecom company, Databel.
+An end-to-end **Power BI dashboard** analyzing customer churn for a fictional telecom company, **Databel**.
 The project is designed to help business leaders, marketing, and customer service teams uncover churn drivers, identify high-risk customer groups, and develop targeted retention strategies.
 
-📋 Project Overview
+---
+
+## 📋 Project Overview
 
 This dashboard delivers a structured analysis of customer churn — from data exploration to business-ready insights.
-It enables decision-makers to understand why customers leave, which services or demographics are most affected, and how different customer behaviors impact retention.
+It enables decision-makers to understand **why customers leave**, which services or demographics are most affected, and how different customer behaviors impact retention.
 
-With interactive KPIs, demographic insights, and churn risk patterns, the dashboard empowers stakeholders to reduce churn, optimize marketing campaigns, and improve customer experience.
+With interactive KPIs, demographic insights, and churn risk patterns, the dashboard empowers stakeholders to **reduce churn, optimize marketing campaigns, and improve customer experience.**
 
-🛠 Tech Stack
+---
 
-📊 Power BI Desktop – Data visualization and dashboard design
+## 🛠 Tech Stack
 
-🧮 DAX – Custom KPIs & business rules (e.g., churn segmentation)
+* 📊 **Power BI Desktop** – Data visualization and dashboard design
+* 🧮 **DAX** – Custom KPIs & business rules (e.g., churn segmentation)
+* 🔄 **Power Query** – Data cleaning & transformation
+* 🔗 **Data Modeling** – Customer, contracts, services, and payments
+* 🎛️ **Interactive Filters & Slicers** – Customer-level drill-down
 
-🔄 Power Query – Data cleaning & transformation
+---
 
-🔗 Data Modeling – Customer, contracts, services, and payments
+## 🔍 Data Source
 
-🎛️ Interactive Filters & Slicers – Customer-level drill-down
-
-🔍 Data Source
-
-Synthetic Telecom dataset (Databel) simulating customer records, contracts, service usage, and churn labels.
+* **Synthetic Telecom dataset (Databel)** simulating customer records, contracts, service usage, and churn labels.
 
 Includes:
 
-Customer demographics (age, gender, senior citizen, dependents)
+* Customer demographics (age, gender, senior citizen, dependents)
+* Contract information (monthly/annual, payment methods, paperless billing)
+* Service usage (internet, phone, streaming, international plan)
+* Financial factors (monthly charges, total charges)
+* Churn status (Yes/No)
 
-Contract information (monthly/annual, payment methods, paperless billing)
+---
 
-Service usage (internet, phone, streaming, international plan)
+## 📊 Dashboard Pages & Key Visuals
 
-Financial factors (monthly charges, total charges)
+### 1️⃣ Overview
 
-Churn status (Yes/No)
+**KPIs:** Total Customers, Churned Customers, Churn Rate, Revenue Lost
+**Visuals:** Churn vs Active distribution, Churn trend over time, Revenue loss
 
-📊 Dashboard Pages & Key Visuals
-1️⃣ Overview
+![Overview](path/to/overview.png)
 
-KPIs: Total Customers, Churned Customers, Churn Rate, Revenue Lost
+---
 
-Visuals: Churn vs Active distribution, Churn trend over time, Revenue loss
+### 2️⃣ Contract Impact
 
-2️⃣ Contract Impact
+**Focus:** Churn by contract length (monthly vs yearly), payment method analysis, tenure & monthly charges impact
 
-Churn by contract length (monthly vs yearly)
+![Contract Impact](path/to/contract-impact.png)
 
-Payment method churn analysis
+---
 
-Tenure vs monthly charges impact
+### 3️⃣ Customer Demographics
 
-3️⃣ Customer Demographics
+**Focus:** Churn by age group, gender, dependents, and senior citizen status
+**Visuals:** Salary & demographic breakdowns
 
-Churn by age group, gender, dependents, senior citizen status
+![Customer Demographics](path/to/customer-demographics.png)
 
-Salary & demographic breakdowns
+---
 
-4️⃣ Billing & Usage Behavior
+### 4️⃣ Billing & Usage Behavior
 
-Monthly charges vs churn likelihood
+**Focus:** Monthly charges vs churn, service usage impact (internet, streaming, international plan, phone)
 
-Service usage impact (phone, internet, streaming, international plan)
+![Billing & Usage Behavior](path/to/billing-usage.png)
 
-5️⃣ Geographic Churn Pattern
+---
 
-Regional churn insights
+### 5️⃣ Geographic Churn Pattern
 
-Customer distribution map
+**Focus:** Regional churn insights & customer distribution map
 
-6️⃣ Product & Plan Combination
+![Geographic Churn Pattern](path/to/geographic-churn.png)
 
-Churn by bundled services (internet + streaming, phone + data, etc.)
+---
 
-Customer loyalty by service mix
+### 6️⃣ Product & Plan Combination
 
-📷 Dashboard Preview
+**Focus:** Churn by bundled services (internet + streaming, phone + data, etc.), customer loyalty by service mix
 
-🚀 Business Impact & Insights
+![Product & Plan Combination](path/to/product-plan.png)
 
-Identify high-risk customer segments for proactive retention campaigns.
+---
 
-Optimize contract offerings to reduce monthly churn volatility.
+## 🚀 Business Impact & Insights
 
-Improve billing/payment options to prevent churn caused by friction.
+* Identify **high-risk customer segments** for proactive retention campaigns.
+* Optimize contract offerings to reduce **monthly churn volatility**.
+* Improve billing/payment options to prevent churn caused by friction.
+* Enable **data-driven retention strategies** across customer service & marketing.
 
-Enable data-driven retention strategies across customer service & marketing.
+---
 
-🎯 Key Learning Outcomes
+## 🎯 Key Learning Outcomes
 
-Designed a multi-page, executive-focused BI dashboard.
+* Designed a **multi-page, executive-focused BI dashboard**.
+* Built **churn-specific KPIs** and business logic (tenure, contracts, services).
+* Applied **demographic & service usage analysis** to uncover churn patterns.
+* Delivered **data storytelling** through interactive Power BI reports.
 
-Built churn-specific KPIs and business logic (tenure, contracts, services).
-
-Applied demographic & service usage analysis to uncover churn patterns.
-
-Delivered data storytelling through interactive Power BI reports.
