@@ -45,7 +45,13 @@ Includes:
 **KPIs:** Total Customers, Churned Customers, Churn Rate, Revenue Lost
 **Visuals:** Churn vs Active distribution, Churn trend over time, Revenue loss
 
-![Overview](path/to/overview.png)
+![Overview](Screenshots/to/overview.png)
+![Overview](screenshots/overview.png)
+![Contract Impact](screenshots/contract-impact.png)
+![Customer Demographics](screenshots/customer-demographics.png)
+![Billing & Usage Behavior](screenshots/billing-usage.png)
+![Geographic Churn Pattern](screenshots/geographic-churn.png)
+![Product & Plan Combination](screenshots/product-plan.png)
 
 ---
 
